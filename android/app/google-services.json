@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "803067373854",
+    "project_id": "ledger-d4088",
+    "storage_bucket": "ledger-d4088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803067373854:android:264875f60c28f90ff8c10f",
+        "android_client_info": {
+          "package_name": "com.example.balanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803067373854-nbnfei8rgsb71trpfqd6aphj5uhr6fb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMpuhvagKcmKGGHmZN3Rs9ieh86C08Zv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803067373854-nbnfei8rgsb71trpfqd6aphj5uhr6fb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
